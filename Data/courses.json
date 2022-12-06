@@ -1,0 +1,398 @@
+[
+    {
+        "_id": "63579c9aa091f4e0e9aaacc0",
+        "category_id": "01",
+        "name": "Web Development",
+        "title": "Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL): Zero to Mastery",
+        "description": "Learn from React.js experts. This is the only React JS tutorial + projects course you need to learn React, build advanced large-scale applications from scratch & get hired as a React Developer in 2022.",
+        "image": "https://i.ibb.co/CMJvf9Q/CnVlR.jpg",
+        "instructor": {
+            "name": "Andrei Neagoien"
+        },
+        "price": "100",
+        "duration": "130",
+        "lessons": [
+            {
+                "_id": "61884f7d8e4fb40004a63311",
+                "title": "Introduction"
+            },
+            {
+                "_id": "61884f908e4fb40004a63315",
+                "title": "React Key Concepts"
+            },
+            {
+                "_id": "61884fa98e4fb40004a63319",
+                "title": "React Basics"
+            },
+            {
+                "_id": "61884fbd8e4fb40004a6331d",
+                "title": "Master Project: Setting Up E-commerce Project"
+            },
+            {
+                "_id": "61884fed8e4fb40004a63325",
+                "title": "Master Project: Forms + Components"
+            },
+            {
+                "_id": "61884fd38e4fb40004a63321",
+                "title": "Master Project: React Router and Routing"
+            },
+            {
+                "_id": "61884ff98e4fb40004a63329",
+                "title": "Master Project: Firebase + User Authentication"
+            },
+            {
+                "_id": "618850148e4fb40004a6332d",
+                "title": "Master Project: Redux 1"
+            },
+            {
+                "_id": "6188502d8e4fb40004a63331",
+                "title": "Master Project: Session Storage + Persistence"
+            },
+            {
+                "_id": "6188505b8e4fb40004a6333d",
+                "title": "Master Project: Deploying To Production"
+            },
+            {
+                "_id": "618850388e4fb40004a63335",
+                "title": "Master Project: Redux 2"
+            },
+            {
+                "_id": "618850428e4fb40004a63339",
+                "title": "Master Project: Advanced Routing"
+            }
+        ]
+    },
+    {
+        "_id": "63579c9aa091f4e0e9baabc0",
+        "category_id": "01",
+        "name": "Web Development",
+        "title": "The Python Mega Course: Build 10 Real World Applications",
+        "description": "Go from zero to hero in weeks! Learn Python the easy way by building real-life Python programs from scratch!",
+        "image": "https://i.ibb.co/tx0Nz6Y/y8MR.jpg",
+        "instructor": {
+            "name": "Mosh Hamedani"
+        },
+        "price": "67",
+        "duration": "120",
+        "lessons": [
+            {
+                "_id": "6188f28be06e990004b0977c",
+                "title": "Introduction"
+            },
+            {
+                "_id": "6188f29fe06e990004b09780",
+                "title": "The Basics: Getting Started with Python"
+            },
+            {
+                "_id": "6188f2b3e06e990004b09784",
+                "title": "The Basics: Data Types"
+            },
+            {
+                "_id": "6188f2c8e06e990004b09788",
+                "title": "The Basics: Operations with Data Types"
+            },
+            {
+                "_id": "6188f2dfe06e990004b0978c",
+                "title": "The Basics: Getting Started with Python"
+            },
+            {
+                "_id": "6188f2f0e06e990004b09790",
+                "title": "Putting the Pieces Together: Building a Program"
+            }
+        ]
+    },
+    {
+        "_id": "63579c9a843b424c42977787",
+        "category_id": "02",
+        "name": "Mobile App Development",
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "image": "https://i.ibb.co/7t9RjpM/oMs4I.jpg",
+        "instructor": {
+            "name": "Angela Yu"
+        },
+        "price": "99",
+        "duration": "140",
+        "lessons": [
+            {
+                "_id": "6188e9e3e06e990004b096bd",
+                "title": "Getting Started with iOS Development and Swift 5"
+            },
+            {
+                "_id": "6188e9f2e06e990004b096c1",
+                "title": "Xcode Storyboards and Interface Builder"
+            },
+            {
+                "_id": "6188ea02e06e990004b096c5",
+                "title": "Xcode Storyboard and Interface Builder Challenge"
+            },
+            {
+                "_id": "6188ea0ee06e990004b096c9",
+                "title": "Swift Programming Basics - Collections, Constants & Variables"
+            },
+            {
+                "_id": "6188ea1be06e990004b096cd",
+                "title": "Swift Programming Basics Challenge"
+            },
+            {
+                "_id": "6188ea2be06e990004b096d1",
+                "title": "Auto Layout and Responsive UIs"
+            },
+            {
+                "_id": "6188ea3ae06e990004b096d5",
+                "title": "Using and Understanding Apple Documentation"
+            },
+            {
+                "_id": "6188ea4be06e990004b096d9",
+                "title": "Intermediate Swift Programming - Control Flow and Optionals"
+            },
+            {
+                "_id": "6188ea59e06e990004b096dd",
+                "title": "iOS App Design Patterns and Code Structuring"
+            },
+            {
+                "_id": "6188ea66e06e990004b096e1",
+                "title": "Networking, JSON Parsing, APIs and Core Location"
+            },
+            {
+                "_id": "6188ea74e06e990004b096e5",
+                "title": "Bonus Module: How to Make an App from Beginning to End"
+            }
+        ]
+    },
+    {
+        "_id": "63479c9a843b421c42977787",
+        "category_id": "02",
+        "name": "Mobile App Development",
+        "title": "React Native - The Practical Guide [2021 Edition]",
+        "description": "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
+        "image": "https://i.ibb.co/xFWYr7L/lOw4u.jpg",
+        "instructor": {
+            "name": "Mosh Hamedani"
+        },
+        "price": "99",
+        "duration": "112",
+        "lessons": [
+            {
+                "_id": "6188f596e06e990004b097ab",
+                "title": "Getting Started"
+            },
+            {
+                "_id": "6188f5a0e06e990004b097af",
+                "title": "Diving into the Basics [COURSE GOALS APP]"
+            },
+            {
+                "_id": "6188f5aae06e990004b097b3",
+                "title": "Debugging React Native Apps"
+            },
+            {
+                "_id": "6188f5b5e06e990004b097b7",
+                "title": "Components, Styling, Layouts - Building Real Apps [GUESS A NUMBER APP]"
+            },
+            {
+                "_id": "6188f5c0e06e990004b097bb",
+                "title": "Responsive & Adaptive User Interfaces and Apps"
+            },
+            {
+                "_id": "6188f5c9e06e990004b097bf",
+                "title": "Navigation with React Navigation [THE MEALS APP]"
+            },
+            {
+                "_id": "6188f5d3e06e990004b097c3",
+                "title": "State Management & Redux"
+            },
+            {
+                "_id": "6188f5f0e06e990004b097c7",
+                "title": "Time to Practice - THE SHOP APP"
+            },
+            {
+                "_id": "6188f602e06e990004b097cb",
+                "title": "Http Requests & Adding a Web Server + Database"
+            },
+            {
+                "_id": "6188f611e06e990004b097cf",
+                "title": "Building Apps Without Expo"
+            }
+        ]
+    },
+    {
+        "_id": "63579c9a7d3bca317f21cb1a",
+        "category_id": "03",
+        "name": "Graphics Design",
+        "title": "Learn Figma - UI/UX Design Essential Training",
+        "description": "Figma is a very powerful application that runs online. There are virtually no platform boundaries when it comes to using figma because you can design within a web browser or using their desktop application made for windows and macs. Figma is similar to Sketch and Adobe XD but is the more powerful of the three when it comes to team collaboration and responsive, fast paced design.",
+        "image": "https://i.ibb.co/7rMv6XQ/OQpJe.jpg",
+        "instructor": {
+            "name": "Caleb Kingston"
+        },
+        "price": "79",
+        "duration": "135",
+        "lessons": [
+            {
+                "_id": "6187fa0ab00e64525c25f159",
+                "title": "Introduction To The Course"
+            },
+            {
+                "_id": "6187fd3eb00e64525c25f183",
+                "title": "Adding & Editing Content"
+            },
+            {
+                "_id": "6187fb2cb00e64525c25f16d",
+                "title": "Setting Up A New Project"
+            },
+            {
+                "_id": "6187fd5db00e64525c25f187",
+                "title": "Completing The Design"
+            },
+            {
+                "_id": "61a7667672cf3d00046a52a5",
+                "title": "How to install adobe xd"
+            }
+        ]
+    },
+    {
+        "_id": "63579c9a1693344095948ad3",
+        "category_id": "03",
+        "name": "Graphics Design",
+        "title": "Learn UI/UX Design, prototype, handoff from scratch",
+        "description": "FLearn how to design and prototype apps and webpages using Adobe XD",
+        "image": "https://i.ibb.co/r36qhZj/xPe01.jpg",
+        "instructor": {
+            "name": "Caleb Kingston"
+        },
+        "price": "89",
+        "duration": "90",
+        "lessons": [
+            {
+                "_id": "6187fa0ab00w64525225f159",
+                "title": "Getting Started With The Course."
+            },
+            {
+                "_id": "6187fd3eb00w63525c25f183",
+                "title": "Getting Familiar With Adobe XD."
+            },
+            {
+                "_id": "6187fb2cb01w64525c25f16d",
+                "title": "Get Started With The Project"
+            },
+            {
+                "_id": "6187fd5db20w64525c25f187",
+                "title": "Working With Images & Vectors"
+            },
+            {
+                "_id": "61a7667632cf3d20046a52a5",
+                "title": "Creating Content In Adobe XD"
+            },
+            {
+                "_id": "618783a2fcfd184a84e1f13b",
+                "title": "Prototyping & Sharing"
+            },
+            {
+                "_id": "618783c3fcfd184a84e1f13f",
+                "title": "Developer Handoff"
+            },
+            {
+                "_id": "6187840dfcfd184a84e1f147",
+                "title": "Conclusion"
+            }
+        ]
+    },
+    {
+        "_id": "63579c9a1693344095948ad2",
+        "category_id": "04",
+        "name": "Digital Marketing",
+        "title": "SEO Fundamentals (Keywords, Link Building, Content Optimization)",
+        "description": "Learn SEO fundamentals and tools from scratch. No fluff. This course makes SEO easy to understand and gives you simple, actionable steps to implement to efficiently rank your website (or your clients) on the first page of Google.",
+        "image": "https://i.ibb.co/w72L1qG/NeRQg.jpg",
+        "instructor": {
+            "name": "Robin Jesper"
+        },
+        "price": "59",
+        "duration": "70",
+        "lessons": [
+            {
+                "_id": "6188525e8e4fb40004a63377",
+                "title": "Introduction"
+            },
+            {
+                "_id": "6188526f8e4fb40004a6337b",
+                "title": "Section 1 - Getting Started"
+            },
+            {
+                "_id": "618852828e4fb40004a6337f",
+                "title": "Section 2 - Online Keyword Research Tools"
+            },
+            {
+                "_id": "618852988e4fb40004a63383",
+                "title": "Section 3 - Conducting Keyword Research"
+            },
+            {
+                "_id": "618852aa8e4fb40004a63387",
+                "title": "Section 4 - Content Optimization"
+            },
+            {
+                "_id": "618852b58e4fb40004a6338b",
+                "title": "Section 5 - Monitoring Keyword Performance"
+            },
+            {
+                "_id": "618852c28e4fb40004a6338f",
+                "title": "Section 6 - Link Building"
+            },
+            {
+                "_id": "618852d28e4fb40004a63393",
+                "title": "Bonus Section"
+            }
+        ]
+    },
+    {
+        "_id": "63529c9a1693344095948ad2",
+        "category_id": "04",
+        "name": "Digital Marketing",
+        "title": "Build a Complete Digital Marketing Strategy in Just 7 Days",
+        "description": "Build a Digital Marketing Strategy to drive traffic, leads & sales with WordPress, SEO, Email & Google Analytics.",
+        "image": "https://i.ibb.co/9nh9jgD/M3RHj.jpg",
+        "instructor": {
+            "name": "Robin Jesper"
+        },
+        "price": "89",
+        "duration": "150",
+        "lessons": [
+            {
+                "_id": "6188ec75e06e990004b09713",
+                "title": "Introduction"
+            },
+            {
+                "_id": "6188ec9ce06e990004b09717",
+                "title": "Introduction WordPress Website"
+            },
+            {
+                "_id": "6188ecaee06e990004b0971b",
+                "title": "Foundation"
+            },
+            {
+                "_id": "6188eccfe06e990004b0971f",
+                "title": "Build & Plugins"
+            },
+            {
+                "_id": "6188ece0e06e990004b09723",
+                "title": "Design Principals"
+            },
+            {
+                "_id": "6188ecf1e06e990004b09727",
+                "title": "Introduction Practical SEO"
+            },
+            {
+                "_id": "6188ecfde06e990004b0972b",
+                "title": "Keyword Research"
+            },
+            {
+                "_id": "6188ed0ae06e990004b0972f",
+                "title": "Introduction Email Marketing"
+            },
+            {
+                "_id": "6188ed34e06e990004b0973d",
+                "title": "Introduction Google Analytics"
+            }
+        ]
+    }
+]
